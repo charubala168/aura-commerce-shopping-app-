@@ -1,0 +1,2617 @@
+[
+  {
+    "id": "sc-01-floral-kurti",
+    "slug": "floral-kurti",
+    "name": "Floral Kurti",
+    "brand": "Vana Handloom",
+    "category": "Fashion & Clothing",
+    "subcategory": "Ethnic Wear",
+    "price": 1299,
+    "compareAtPrice": 1799,
+    "discountPercentage": 28,
+    "rating": 4.7,
+    "reviewCount": 1140,
+    "description": "Breathable Jaipur mul-cotton A-line floral kurti featuring hand-block inspired botanical prints and pintuck yoke detailing.",
+    "materials": "100% Pure Mul-Cotton",
+    "dimensions": "Length 44 inches",
+    "specifications": {
+      "Fabric": "Pure Cotton",
+      "Fit": "A-Line Regular",
+      "Sleeve": "Three-Quarter",
+      "Care": "Gentle Hand Wash"
+    },
+    "image": "/src/assets/images/prod_floral_kurti_1795614687434.jpg",
+    "stock": 28,
+    "popularityScore": 94,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Ivory Botanical",
+        "Sage Petal"
+      ],
+      "finishes": [
+        "Hand-Block Print"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-02-casual-top",
+    "slug": "casual-top",
+    "name": "Casual Top",
+    "brand": "Kanso Basics",
+    "category": "Fashion & Clothing",
+    "subcategory": "Tops & Blouses",
+    "price": 749,
+    "compareAtPrice": 999,
+    "discountPercentage": 25,
+    "rating": 4.4,
+    "reviewCount": 680,
+    "description": "Relaxed everyday cotton-linen blend top with clean boat neckline and rolled cuffs designed for effortless layering.",
+    "materials": "70% Cotton, 30% Linen",
+    "dimensions": "Standard Hip Length",
+    "specifications": {
+      "Fabric": "Cotton Linen",
+      "Neckline": "Boat Neck",
+      "Fit": "Relaxed",
+      "Pattern": "Solid"
+    },
+    "image": "/src/assets/images/prod_casual_top_1795616881222.jpg",
+    "stock": 42,
+    "popularityScore": 84,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Optic White",
+        "Warm Sand"
+      ],
+      "finishes": [
+        "Soft Washed"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-03-wide-leg-jeans",
+    "slug": "wide-leg-jeans",
+    "name": "Wide-leg Jeans",
+    "brand": "Indigo Loom",
+    "category": "Fashion & Clothing",
+    "subcategory": "Denim & Trousers",
+    "price": 1999,
+    "compareAtPrice": 2699,
+    "discountPercentage": 26,
+    "rating": 4.6,
+    "reviewCount": 890,
+    "description": "High-rise wide-leg vintage wash indigo denim crafted from 12oz organic cotton twill for structured drape and all-day ease.",
+    "materials": "99% Organic Cotton, 1% Elastane",
+    "dimensions": "31-inch Inseam",
+    "specifications": {
+      "Rise": "High Waist",
+      "Silhouette": "Wide Leg",
+      "Closure": "Zip & Button",
+      "Weight": "12 oz Denim"
+    },
+    "image": "/src/assets/images/prod_wide_leg_jeans_1795616882661.jpg",
+    "stock": 31,
+    "popularityScore": 90,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "Mid Indigo",
+        "Charcoal Wash"
+      ],
+      "finishes": [
+        "Stone Washed"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-04-oversized-tshirt",
+    "slug": "oversized-t-shirt",
+    "name": "Oversized T-shirt",
+    "brand": "Kanso Basics",
+    "category": "Fashion & Clothing",
+    "subcategory": "T-Shirts",
+    "price": 799,
+    "compareAtPrice": 1199,
+    "discountPercentage": 33,
+    "rating": 4.6,
+    "reviewCount": 1430,
+    "description": "240gsm heavy combed cotton drop-shoulder tee with thick ribbed collar for a crisp architectural boxy drape.",
+    "materials": "100% Combed Ring-Spun Cotton",
+    "dimensions": "Relaxed Drop-Shoulder",
+    "specifications": {
+      "GSM": "240 GSM",
+      "Fit": "Oversized",
+      "Neck": "Crew Ribbed",
+      "Pre-shrunk": "Yes"
+    },
+    "image": "/src/assets/images/prod_oversized_tshirt_1795616883227.jpg",
+    "stock": 55,
+    "popularityScore": 91,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Chalk White",
+        "Slate Grey"
+      ],
+      "finishes": [
+        "Bio-Washed"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-05-crop-top",
+    "slug": "crop-top",
+    "name": "Crop Top",
+    "brand": "Kanso Basics",
+    "category": "Fashion & Clothing",
+    "subcategory": "Tops & Blouses",
+    "price": 599,
+    "compareAtPrice": 899,
+    "discountPercentage": 33,
+    "rating": 4.5,
+    "reviewCount": 715,
+    "description": "Soft ribbed organic cotton crew-neck crop top with balanced stretch retention and clean finished hems.",
+    "materials": "95% Organic Cotton, 5% Spandex",
+    "dimensions": "16.5-inch Body Length",
+    "specifications": {
+      "Fabric": "2x2 Rib Knit",
+      "Length": "Cropped",
+      "Stretch": "4-Way Comfort",
+      "Wash": "Machine Wash"
+    },
+    "image": "/src/assets/images/prod_crop_top_1795616883423.jpg",
+    "stock": 39,
+    "popularityScore": 85,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Optic White",
+        "Espresso"
+      ],
+      "finishes": [
+        "Ribbed"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-06-denim-jacket",
+    "slug": "denim-jacket",
+    "name": "Denim Jacket",
+    "brand": "Indigo Loom",
+    "category": "Fashion & Clothing",
+    "subcategory": "Outerwear",
+    "price": 2499,
+    "compareAtPrice": 3499,
+    "discountPercentage": 29,
+    "rating": 4.7,
+    "reviewCount": 960,
+    "description": "Classic trucker silhouette denim jacket tailored in 13.5oz washed cotton denim with copper shank buttons and twin chest pockets.",
+    "materials": "100% Cotton Rigid Denim",
+    "dimensions": "Classic Structured Fit",
+    "specifications": {
+      "Fabric Weight": "13.5 oz",
+      "Hardware": "Antique Copper",
+      "Pockets": "4 Functional",
+      "Lining": "Unlined"
+    },
+    "image": "/src/assets/images/prod_denim_jacket_1795616883226.jpg",
+    "stock": 18,
+    "popularityScore": 92,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Vintage Blue",
+        "Faded Charcoal"
+      ],
+      "finishes": [
+        "Enzyme Wash"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-07-formal-shirt",
+    "slug": "formal-shirt",
+    "name": "Formal Shirt",
+    "brand": "Kanso Tailoring",
+    "category": "Fashion & Clothing",
+    "subcategory": "Shirts",
+    "price": 1499,
+    "compareAtPrice": 2099,
+    "discountPercentage": 29,
+    "rating": 4.6,
+    "reviewCount": 780,
+    "description": "Tailored two-ply cotton twill formal shirt with crisp spread collar, French placket, and natural horn buttons.",
+    "materials": "100% Two-Ply Giza Cotton",
+    "dimensions": "Tailored Slim Fit",
+    "specifications": {
+      "Collar": "Semi-Spread",
+      "Cuff": "Convertible Barrel",
+      "Weave": "Fine Twill",
+      "Wrinkle Resistance": "High"
+    },
+    "image": "/src/assets/images/prod_merino_overshirt_1795613733692.jpg",
+    "stock": 26,
+    "popularityScore": 87,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "colors": [
+        "Charcoal Slate",
+        "Crisp White"
+      ],
+      "finishes": [
+        "Easy-Care"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-08-cargo-pants",
+    "slug": "cargo-pants",
+    "name": "Cargo Pants",
+    "brand": "Indigo Loom",
+    "category": "Fashion & Clothing",
+    "subcategory": "Denim & Trousers",
+    "price": 1799,
+    "compareAtPrice": 2499,
+    "discountPercentage": 28,
+    "rating": 4.5,
+    "reviewCount": 635,
+    "description": "Utility relaxed-fit ripstop cargo trousers featuring gusseted bellows thigh pockets and articulated knees.",
+    "materials": "100% Cotton Ripstop Twill",
+    "dimensions": "30-inch Inseam",
+    "specifications": {
+      "Pockets": "6 Utility Pockets",
+      "Hem": "Adjustable Toggle",
+      "Fit": "Relaxed Taper",
+      "Fabric": "260 GSM Ripstop"
+    },
+    "image": "/src/assets/images/prod_cargo_pants_1795616883215.jpg",
+    "stock": 23,
+    "popularityScore": 86,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "Olive Moss",
+        "Obsidian"
+      ],
+      "finishes": [
+        "Garment Dyed"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-09-palazzo-pants",
+    "slug": "palazzo-pants",
+    "name": "Palazzo Pants",
+    "brand": "Vana Handloom",
+    "category": "Fashion & Clothing",
+    "subcategory": "Ethnic & Fusion",
+    "price": 899,
+    "compareAtPrice": 1299,
+    "discountPercentage": 31,
+    "rating": 4.5,
+    "reviewCount": 540,
+    "description": "Airy flared rayon-cotton palazzo trousers with soft elasticated waist and deep side-seam pockets for kurti or top pairings.",
+    "materials": "60% Viscose Rayon, 40% Cotton",
+    "dimensions": "Length 39 inches",
+    "specifications": {
+      "Waistband": "Elasticated Drawstring",
+      "Flare": "Wide Flared",
+      "Pockets": "2 Side Pockets",
+      "Opacity": "Opaque"
+    },
+    "image": "/src/assets/images/prod_palazzo_pants_1795616883886.jpg",
+    "stock": 33,
+    "popularityScore": 82,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Sage Ivory",
+        "Chalk"
+      ],
+      "finishes": [
+        "Soft Matte"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-10-anarkali-suit",
+    "slug": "anarkali-suit",
+    "name": "Anarkali Suit",
+    "brand": "Vana Handloom",
+    "category": "Fashion & Clothing",
+    "subcategory": "Ethnic Wear",
+    "price": 2999,
+    "compareAtPrice": 4499,
+    "discountPercentage": 33,
+    "rating": 4.8,
+    "reviewCount": 790,
+    "description": "Festive Chanderi silk-cotton 3-piece Anarkali kurta set with intricate zari yoke embroidery, matching trousers, and organza dupatta.",
+    "materials": "Chanderi Silk-Cotton, Pure Cotton Lining",
+    "dimensions": "Ankle Length · 3-Piece Set",
+    "specifications": {
+      "Set Includes": "Kurta, Trouser, Dupatta",
+      "Work": "Zari Embroidery",
+      "Lining": "Soft Mulmul",
+      "Occasion": "Festive"
+    },
+    "image": "/src/assets/images/prod_anarkali_suit_1795616885493.jpg",
+    "stock": 14,
+    "popularityScore": 93,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Pastel Sage",
+        "Dusty Rose"
+      ],
+      "finishes": [
+        "Zari Embroidered"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-11-cotton-saree",
+    "slug": "cotton-saree",
+    "name": "Cotton Saree",
+    "brand": "Vana Handloom",
+    "category": "Fashion & Clothing",
+    "subcategory": "Ethnic Wear",
+    "price": 2299,
+    "compareAtPrice": 3199,
+    "discountPercentage": 28,
+    "rating": 4.8,
+    "reviewCount": 610,
+    "description": "Authentic handwoven Chanderi-Chettinad cotton saree featuring subtle woven golden zari border and matching unstitched blouse piece.",
+    "materials": "100% Handloom Mercerized Cotton",
+    "dimensions": "5.5 m Saree + 0.8 m Blouse",
+    "specifications": {
+      "Length": "6.3 Meters Total",
+      "Border": "Woven Zari",
+      "Weave": "Handloom",
+      "Blouse": "Included Unstitched"
+    },
+    "image": "/src/assets/images/prod_cotton_saree_1795616885077.jpg",
+    "stock": 16,
+    "popularityScore": 89,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Free Size (6.3 m)"
+      ],
+      "colors": [
+        "Ochre Gold",
+        "Ivory Zari"
+      ],
+      "finishes": [
+        "Handloom"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-12-hoodie",
+    "slug": "hoodie",
+    "name": "Hoodie",
+    "brand": "Kanso Basics",
+    "category": "Fashion & Clothing",
+    "subcategory": "Winterwear",
+    "price": 1599,
+    "compareAtPrice": 2299,
+    "discountPercentage": 30,
+    "rating": 4.6,
+    "reviewCount": 865,
+    "description": "Heavyweight 380gsm brushed cotton fleece pullover hoodie with double-lined hood, metal aglets, and kangaroo pocket.",
+    "materials": "85% Cotton, 15% Recycled Polyester",
+    "dimensions": "Relaxed Boxy Fit",
+    "specifications": {
+      "GSM": "380 GSM Fleece",
+      "Hood": "Double-Layered",
+      "Pocket": "Front Kangaroo",
+      "Cuffs": "2x2 Ribbing"
+    },
+    "image": "/src/assets/images/prod_cotton_hoodie_1795616884686.jpg",
+    "stock": 24,
+    "popularityScore": 88,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Heather Grey",
+        "Charcoal"
+      ],
+      "finishes": [
+        "Brushed Fleece"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-13-casual-shorts",
+    "slug": "casual-shorts",
+    "name": "Casual Shorts",
+    "brand": "Kanso Basics",
+    "category": "Fashion & Clothing",
+    "subcategory": "Bottomwear",
+    "price": 699,
+    "compareAtPrice": 999,
+    "discountPercentage": 30,
+    "rating": 4.4,
+    "reviewCount": 490,
+    "description": "7-inch mid-thigh French terry cotton shorts with internal drawcord, deep zip security pocket, and breathable weave.",
+    "materials": "100% French Terry Cotton",
+    "dimensions": "7-inch Inseam",
+    "specifications": {
+      "Inseam": "7 inches",
+      "Waist": "Elastic + Drawcord",
+      "Pockets": "3 (1 Zippered)",
+      "Weight": "280 GSM"
+    },
+    "image": "/src/assets/images/prod_casual_shorts_1795616886355.jpg",
+    "stock": 0,
+    "popularityScore": 78,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Charcoal",
+        "Sand"
+      ],
+      "finishes": [
+        "French Terry"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-14-wireless-headphones",
+    "slug": "wireless-headphones",
+    "name": "Wireless Headphones",
+    "brand": "Sony",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Audio",
+    "price": 18990,
+    "compareAtPrice": 24990,
+    "discountPercentage": 24,
+    "rating": 4.8,
+    "reviewCount": 1840,
+    "description": "Over-ear active noise cancelling wireless headphones with dual-sensor ANC, multipoint Bluetooth 5.3, and 35-hour battery life.",
+    "materials": "Memory foam ear cushions, matte acoustic composite",
+    "dimensions": "250 g · Foldable swivel cups",
+    "specifications": {
+      "Driver": "40 mm Neodymium",
+      "ANC": "Adaptive Dual-Mic",
+      "Battery": "35 Hours + Fast Charge",
+      "Codec": "LDAC / AAC"
+    },
+    "image": "/src/assets/images/prod_sony_headphones_1795614827519.jpg",
+    "stock": 17,
+    "popularityScore": 97,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "Over-Ear"
+      ],
+      "colors": [
+        "Matte Black",
+        "Midnight Slate"
+      ],
+      "finishes": [
+        "Soft Matte"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-15-smartwatch",
+    "slug": "smartwatch",
+    "name": "Smartwatch",
+    "brand": "boAt",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Wearables",
+    "price": 2499,
+    "compareAtPrice": 5990,
+    "discountPercentage": 58,
+    "rating": 4.4,
+    "reviewCount": 4120,
+    "description": "1.96-inch Always-On AMOLED smartwatch with crisp Bluetooth calling, continuous SpO2 & heart rate tracking, and IP68 waterproofing.",
+    "materials": "Alloy case, fluoroelastomer strap",
+    "dimensions": "44 mm Dial · 7-Day Battery",
+    "specifications": {
+      "Display": "1.96 in AMOLED 60Hz",
+      "Calling": "Single-Chip BT Calling",
+      "Water Rating": "IP68",
+      "Sports Modes": "100+"
+    },
+    "image": "/src/assets/images/prod_boat_smartwatch_1795614685942.jpg",
+    "stock": 38,
+    "popularityScore": 95,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "44 mm"
+      ],
+      "colors": [
+        "Active Black",
+        "Steel Blue"
+      ],
+      "finishes": [
+        "Silicone Strap"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-16-bluetooth-speaker",
+    "slug": "bluetooth-speaker",
+    "name": "Bluetooth Speaker",
+    "brand": "Aurora Acoustics",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Audio",
+    "price": 4499,
+    "compareAtPrice": 5999,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "reviewCount": 920,
+    "description": "Anodized aluminum 30W stereo Bluetooth speaker with passive bass radiators, room-filling acoustic tuning, and 18-hour playback.",
+    "materials": "Bead-blasted Aluminum, Steel Grille",
+    "dimensions": "220 × 85 × 95 mm · 1.1 kg",
+    "specifications": {
+      "Output": "30W RMS Stereo",
+      "Bluetooth": "v5.3 + AUX",
+      "Battery": "18 Hours USB-C",
+      "Water Resistance": "IPX5"
+    },
+    "image": "/src/assets/images/prod_monolith_speaker_1795613732413.jpg",
+    "stock": 21,
+    "popularityScore": 91,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "Portable 30W"
+      ],
+      "colors": [
+        "Anodized Charcoal",
+        "Titanium"
+      ],
+      "finishes": [
+        "Brushed Aluminum"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-17-wireless-earbuds",
+    "slug": "wireless-earbuds",
+    "name": "Wireless Earbuds",
+    "brand": "Noir Audio",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Audio",
+    "price": 3299,
+    "compareAtPrice": 4999,
+    "discountPercentage": 34,
+    "rating": 4.6,
+    "reviewCount": 2650,
+    "description": "True wireless earbuds with 38dB hybrid ANC, quad-mic AI call clarity, wireless charging case, and 36-hour combined playtime.",
+    "materials": "Acoustic polymer, magnetic hall-switch case",
+    "dimensions": "4.2 g per earbud",
+    "specifications": {
+      "ANC": "38 dB Hybrid",
+      "Driver": "11 mm Dynamic",
+      "Playtime": "36 Hours Total",
+      "Charging": "USB-C + Qi"
+    },
+    "image": "/src/assets/images/prod_airpods_earbuds_1795614684501.jpg",
+    "stock": 44,
+    "popularityScore": 94,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Standard Fit"
+      ],
+      "colors": [
+        "Pearl White"
+      ],
+      "finishes": [
+        "Glossy Acoustic"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-18-mechanical-keyboard",
+    "slug": "mechanical-keyboard",
+    "name": "Mechanical Keyboard",
+    "brand": "KeyCraft",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Computer Peripherals",
+    "price": 4999,
+    "compareAtPrice": 6499,
+    "discountPercentage": 23,
+    "rating": 4.8,
+    "reviewCount": 740,
+    "description": "75% gasket-mounted wireless mechanical keyboard with hot-swappable tactile switches, rotary aluminum volume knob, and PBT keycaps.",
+    "materials": "Double-shot PBT keycaps, aluminum rotary encoder",
+    "dimensions": "325 × 138 × 36 mm · 890 g",
+    "specifications": {
+      "Layout": "75% (84 Keys)",
+      "Connectivity": "Tri-Mode (2.4G/BT/USB-C)",
+      "Switches": "Hot-Swap Tactile",
+      "Battery": "4000 mAh"
+    },
+    "image": "/src/assets/images/prod_mechanical_keyboard_1795616947642.jpg",
+    "stock": 15,
+    "popularityScore": 92,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "75% Compact"
+      ],
+      "colors": [
+        "Obsidian RGB"
+      ],
+      "finishes": [
+        "PBT Matte"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-19-gaming-mouse",
+    "slug": "gaming-mouse",
+    "name": "Gaming Mouse",
+    "brand": "KeyCraft",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Computer Peripherals",
+    "price": 2299,
+    "compareAtPrice": 3299,
+    "discountPercentage": 30,
+    "rating": 4.7,
+    "reviewCount": 1120,
+    "description": "Lightweight 62g ergonomic optical gaming mouse with 26,000 DPI sensor, PTFE glide feet, and zero-drag paracord cable.",
+    "materials": "Matte ABS grip shell, optical microswitches",
+    "dimensions": "124 × 64 × 40 mm · 62 g",
+    "specifications": {
+      "Sensor": "26,000 DPI Optical",
+      "Polling Rate": "1000 Hz (1 ms)",
+      "Weight": "62 g Ultralight",
+      "Buttons": "6 Programmable"
+    },
+    "image": "/src/assets/images/prod_gaming_mouse_1795616948622.jpg",
+    "stock": 29,
+    "popularityScore": 89,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Right-Handed"
+      ],
+      "colors": [
+        "Matte Black"
+      ],
+      "finishes": [
+        "Soft Grip"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-20-power-bank",
+    "slug": "power-bank",
+    "name": "Power Bank",
+    "brand": "VoltEdge",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Charging & Power",
+    "price": 1799,
+    "compareAtPrice": 2499,
+    "discountPercentage": 28,
+    "rating": 4.6,
+    "reviewCount": 2190,
+    "description": "20,000mAh 65W USB-C Power Delivery aluminum power bank capable of fast-charging laptops, tablets, and smartphones simultaneously.",
+    "materials": "CNC Anodized Aluminum Shell",
+    "dimensions": "142 × 72 × 24 mm · 360 g",
+    "specifications": {
+      "Capacity": "20,000 mAh",
+      "Max Output": "65W PD 3.0",
+      "Ports": "2× USB-C + 1× USB-A",
+      "Safety": "Multi-Layer Surge"
+    },
+    "image": "/src/assets/images/prod_power_bank_1795616947577.jpg",
+    "stock": 40,
+    "popularityScore": 91,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "20,000 mAh / 65W"
+      ],
+      "colors": [
+        "Space Silver"
+      ],
+      "finishes": [
+        "Anodized Aluminum"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-21-laptop-stand",
+    "slug": "laptop-stand",
+    "name": "Laptop Stand",
+    "brand": "FormWork Tech",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Desk Accessories",
+    "price": 1299,
+    "compareAtPrice": 1899,
+    "discountPercentage": 32,
+    "rating": 4.7,
+    "reviewCount": 1350,
+    "description": "Single-piece 4mm solid aluminum ergonomic laptop riser with anti-slip silicone pads and open ventilation channel.",
+    "materials": "Bead-blasted 4mm Aluminum Alloy, Silicone",
+    "dimensions": "255 × 225 × 145 mm · Supports up to 17-inch",
+    "specifications": {
+      "Compatibility": "11\" to 17\" Laptops",
+      "Elevation": "15 cm Ergonomic",
+      "Load Capacity": "10 kg",
+      "Padding": "Non-Slip Silicone"
+    },
+    "image": "/src/assets/images/prod_laptop_stand_1795617100001.jpg",
+    "stock": 34,
+    "popularityScore": 87,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Universal"
+      ],
+      "colors": [
+        "Space Grey",
+        "Silver"
+      ],
+      "finishes": [
+        "Anodized"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-22-usb-c-hub",
+    "slug": "usb-c-hub",
+    "name": "USB-C Hub",
+    "brand": "VoltEdge",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Adapters & Cables",
+    "price": 1499,
+    "compareAtPrice": 2199,
+    "discountPercentage": 32,
+    "rating": 4.5,
+    "reviewCount": 890,
+    "description": "7-in-1 aluminum USB-C multiport hub featuring 4K@60Hz HDMI, 100W PD pass-through, Gigabit Ethernet, and dual USB 3.2 ports.",
+    "materials": "Heat-dissipating Aluminum Shell, Braided Cable",
+    "dimensions": "115 × 44 × 14 mm",
+    "specifications": {
+      "HDMI": "4K @ 60Hz",
+      "Power Delivery": "100W Pass-Through",
+      "Data": "USB 3.2 (10 Gbps)",
+      "Card Reader": "SD + MicroSD"
+    },
+    "image": "/src/assets/images/prod_usbc_hub_1795616947306.jpg",
+    "stock": 47,
+    "popularityScore": 85,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "7-in-1"
+      ],
+      "colors": [
+        "Space Grey"
+      ],
+      "finishes": [
+        "Brushed Metal"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-23-portable-ssd",
+    "slug": "portable-ssd",
+    "name": "Portable SSD",
+    "brand": "VoltEdge",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Storage",
+    "price": 7499,
+    "compareAtPrice": 9999,
+    "discountPercentage": 25,
+    "rating": 4.8,
+    "reviewCount": 1040,
+    "description": "1TB NVMe pocket external SSD delivering 1,050 MB/s read/write speeds in a shock-resistant ribbed aluminum chassis.",
+    "materials": "Ruggedized Aluminum, Silicone Bumper",
+    "dimensions": "85 × 52 × 9 mm · 58 g",
+    "specifications": {
+      "Capacity": "1 TB NVMe",
+      "Speed": "Up to 1050 MB/s",
+      "Interface": "USB 3.2 Gen 2 Type-C",
+      "Drop Rating": "2 Meters"
+    },
+    "image": "/src/assets/images/prod_portable_ssd_1795616947807.jpg",
+    "stock": 19,
+    "popularityScore": 90,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "1 TB",
+        "2 TB"
+      ],
+      "colors": [
+        "Matte Obsidian"
+      ],
+      "finishes": [
+        "Ribbed Armor"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-24-webcam",
+    "slug": "webcam",
+    "name": "Webcam",
+    "brand": "KeyCraft",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Computer Peripherals",
+    "price": 2999,
+    "compareAtPrice": 4299,
+    "discountPercentage": 30,
+    "rating": 4.5,
+    "reviewCount": 510,
+    "description": "2K QHD autofocus USB-C streaming webcam with low-light HDR correction, built-in privacy shutter, and dual beamforming mics.",
+    "materials": "Optical glass lens, anodized monitor clip",
+    "dimensions": "95 × 32 × 30 mm",
+    "specifications": {
+      "Resolution": "2K QHD (2560×1440)",
+      "Frame Rate": "30 / 60 fps",
+      "Field of View": "78 Degrees",
+      "Privacy": "Physical Slide Cover"
+    },
+    "image": "/src/assets/images/prod_webcam_hd_1795616947379.jpg",
+    "stock": 22,
+    "popularityScore": 82,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "2K QHD"
+      ],
+      "colors": [
+        "Graphite"
+      ],
+      "finishes": [
+        "Matte"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-25-tablet",
+    "slug": "tablet",
+    "name": "Tablet",
+    "brand": "Aura Tech",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Tablets",
+    "price": 24999,
+    "compareAtPrice": 29999,
+    "discountPercentage": 17,
+    "rating": 4.7,
+    "reviewCount": 820,
+    "description": "11-inch 2.5K 120Hz laminated display tablet with quad Dolby Atmos speakers, 8000mAh battery, and stylus support for study & design.",
+    "materials": "6.5mm Unibody Aluminum",
+    "dimensions": "254 × 165 × 6.5 mm · 475 g",
+    "specifications": {
+      "Display": "11\" 2.5K 120Hz",
+      "Memory": "8 GB RAM / 128 GB",
+      "Battery": "8000 mAh (33W)",
+      "Audio": "Quad Stereo Speakers"
+    },
+    "image": "/src/assets/images/prod_digital_tablet_1795616948767.jpg",
+    "stock": 12,
+    "popularityScore": 93,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "128 GB Wi-Fi",
+        "256 GB Wi-Fi"
+      ],
+      "colors": [
+        "Anodized Slate"
+      ],
+      "finishes": [
+        "Unibody Metal"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-26-ring-light",
+    "slug": "ring-light",
+    "name": "Ring Light",
+    "brand": "Atelier Solis",
+    "category": "Electronics & Gadgets",
+    "subcategory": "Studio & Creator",
+    "price": 1199,
+    "compareAtPrice": 1799,
+    "discountPercentage": 33,
+    "rating": 4.4,
+    "reviewCount": 1460,
+    "description": "12-inch bi-color CRI 95+ LED creator ring light with stepless 2700K–6500K dimming, desk tripod stand, and phone mount.",
+    "materials": "Diffused polycarbonate ring, aluminum tripod",
+    "dimensions": "12-inch Ring · USB Powered",
+    "specifications": {
+      "Color Temp": "2700K–6500K",
+      "CRI": "95+ Studio Grade",
+      "Brightness": "10 Levels",
+      "Mount": "1/4\" Universal + Phone"
+    },
+    "image": "/src/assets/images/prod_ring_light_1795617100002.jpg",
+    "stock": 30,
+    "popularityScore": 84,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "12-inch Desk"
+      ],
+      "colors": [
+        "Matte Black"
+      ],
+      "finishes": [
+        "Frosted Diffuser"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-27-face-wash",
+    "slug": "face-wash",
+    "name": "Face Wash",
+    "brand": "Prana Skin",
+    "category": "Beauty & Skincare",
+    "subcategory": "Cleansers",
+    "price": 299,
+    "compareAtPrice": 399,
+    "discountPercentage": 25,
+    "rating": 4.5,
+    "reviewCount": 1820,
+    "description": "Sulfate-free hydrating botanical cleanser with organic aloe vera, panthenol, and green tea extract for gentle daily purification.",
+    "materials": "Aloe Barbadensis, Panthenol, Green Tea",
+    "dimensions": "100 ml Frosted Bottle",
+    "specifications": {
+      "Skin Type": "All Skin Types",
+      "pH": "5.5 Balanced",
+      "Free From": "SLS / Parabens",
+      "Volume": "100 ml"
+    },
+    "image": "/src/assets/images/prod_face_wash_1795617100003.jpg",
+    "stock": 62,
+    "popularityScore": 88,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "100 ml",
+        "200 ml"
+      ],
+      "colors": [
+        "Botanical Green"
+      ],
+      "finishes": [
+        "Gel Cleanser"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-28-sunscreen",
+    "slug": "sunscreen",
+    "name": "Sunscreen",
+    "brand": "Prana Skin",
+    "category": "Beauty & Skincare",
+    "subcategory": "Sun Care",
+    "price": 499,
+    "compareAtPrice": 649,
+    "discountPercentage": 23,
+    "rating": 4.7,
+    "reviewCount": 2140,
+    "description": "Broad-spectrum SPF 50 PA++++ invisible fluid sunscreen enriched with niacinamide and ceramides, leaving zero white cast.",
+    "materials": "2% Niacinamide, Ceramide Complex, UV Filters",
+    "dimensions": "50 g Tube",
+    "specifications": {
+      "SPF": "SPF 50 PA++++",
+      "Finish": "Matte Zero White Cast",
+      "Water Resistant": "80 Mins",
+      "Weight": "50 g"
+    },
+    "image": "/src/assets/images/prod_sunscreen_spf_1795617100004.jpg",
+    "stock": 48,
+    "popularityScore": 94,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "50 g",
+        "100 g"
+      ],
+      "colors": [
+        "Invisible Sheer"
+      ],
+      "finishes": [
+        "Fluid Gel"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-29-lipstick",
+    "slug": "lipstick",
+    "name": "Lipstick",
+    "brand": "Aura Beauty",
+    "category": "Beauty & Skincare",
+    "subcategory": "Makeup",
+    "price": 549,
+    "compareAtPrice": 749,
+    "discountPercentage": 27,
+    "rating": 4.6,
+    "reviewCount": 1390,
+    "description": "Velvet-matte one-stroke pigmented terracotta lipstick infused with jojoba oil and shea butter for 10-hour crack-free wear.",
+    "materials": "Jojoba Esters, Shea Butter, Mineral Pigments",
+    "dimensions": "4.2 g Bullet",
+    "specifications": {
+      "Finish": "Soft Velvet Matte",
+      "Wear Time": "Up to 10 Hours",
+      "Vegan": "100% Cruelty-Free",
+      "Net Weight": "4.2 g"
+    },
+    "image": "/src/assets/images/prod_lipstick_matte_1795617100005.jpg",
+    "stock": 41,
+    "popularityScore": 90,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "4.2 g"
+      ],
+      "colors": [
+        "Matte Terracotta",
+        "Rosewood"
+      ],
+      "finishes": [
+        "Velvet Matte"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-30-vitamin-c-serum",
+    "slug": "vitamin-c-serum",
+    "name": "Vitamin C Serum",
+    "brand": "Stilla Botanics",
+    "category": "Beauty & Skincare",
+    "subcategory": "Serums & Treatments",
+    "price": 599,
+    "compareAtPrice": 799,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "reviewCount": 2480,
+    "description": "15% L-Ascorbic Acid + 0.5% Ferulic Acid radiance serum formulated to fade dark spots and boost collagen brightness.",
+    "materials": "15% Vitamin C, Vitamin E, Hyaluronic Acid",
+    "dimensions": "30 ml Amber Dropper",
+    "specifications": {
+      "Active": "15% L-Ascorbic Acid",
+      "Packaging": "UV Amber Glass",
+      "Skin Concern": "Dullness & Spots",
+      "Volume": "30 ml"
+    },
+    "image": "/src/assets/images/prod_amber_diffuser_1795613732231.jpg",
+    "stock": 52,
+    "popularityScore": 96,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "30 ml",
+        "50 ml"
+      ],
+      "colors": [
+        "Amber Glass"
+      ],
+      "finishes": [
+        "Dropper Bottle"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-31-aloe-vera-gel",
+    "slug": "aloe-vera-gel",
+    "name": "Aloe Vera Gel",
+    "brand": "Prana Skin",
+    "category": "Beauty & Skincare",
+    "subcategory": "Moisturizers",
+    "price": 249,
+    "compareAtPrice": 349,
+    "discountPercentage": 29,
+    "rating": 4.5,
+    "reviewCount": 1640,
+    "description": "99% pure cold-pressed organic aloe vera soothing gel for post-sun calming, lightweight oil-free hydration, and hair conditioning.",
+    "materials": "99% Organic Aloe Juice, Vitamin E",
+    "dimensions": "200 g Tub",
+    "specifications": {
+      "Purity": "99% Cold-Pressed Aloe",
+      "Fragrance": "Zero Artificial",
+      "Use": "Face, Body & Hair",
+      "Weight": "200 g"
+    },
+    "image": "/src/assets/images/prod_aloe_vera_gel_1795617100006.jpg",
+    "stock": 67,
+    "popularityScore": 86,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "200 g",
+        "400 g"
+      ],
+      "colors": [
+        "Pure Clear"
+      ],
+      "finishes": [
+        "Cooling Gel"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-32-body-lotion",
+    "slug": "body-lotion",
+    "name": "Body Lotion",
+    "brand": "Prana Skin",
+    "category": "Beauty & Skincare",
+    "subcategory": "Body Care",
+    "price": 399,
+    "compareAtPrice": 525,
+    "discountPercentage": 24,
+    "rating": 4.5,
+    "reviewCount": 940,
+    "description": "Fast-absorbing 48-hour moisture barrier lotion blended with raw cocoa butter, rose water, and sweet almond oil.",
+    "materials": "Shea Butter, Sweet Almond Oil, Rose Distillate",
+    "dimensions": "300 ml Pump",
+    "specifications": {
+      "Hydration": "48-Hour Moisture",
+      "Texture": "Non-Sticky",
+      "Dermatologically Tested": "Yes",
+      "Volume": "300 ml"
+    },
+    "image": "/src/assets/images/prod_body_lotion_1795617100007.jpg",
+    "stock": 35,
+    "popularityScore": 83,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "300 ml"
+      ],
+      "colors": [
+        "Damask Rose"
+      ],
+      "finishes": [
+        "Cream Lotion"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-33-makeup-brush-set",
+    "slug": "makeup-brush-set",
+    "name": "Makeup Brush Set",
+    "brand": "Aura Beauty",
+    "category": "Beauty & Skincare",
+    "subcategory": "Tools & Brushes",
+    "price": 899,
+    "compareAtPrice": 1399,
+    "discountPercentage": 36,
+    "rating": 4.7,
+    "reviewCount": 870,
+    "description": "6-piece rose-gold cruelty-free vegan taklon makeup brush collection covering foundation, powder, contour, and eye blending.",
+    "materials": "Ultra-soft Synthetic Taklon, Anodized Rose-Gold Ferrules",
+    "dimensions": "6 Brushes + Travel Pouch",
+    "specifications": {
+      "Pieces": "6 Essential Brushes",
+      "Bristles": "100% Vegan Taklon",
+      "Handle": "Weighted Alloy",
+      "Shed-Free": "Yes"
+    },
+    "image": "/src/assets/images/prod_makeup_brushes_1795617100008.jpg",
+    "stock": 27,
+    "popularityScore": 89,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "6-Piece Set"
+      ],
+      "colors": [
+        "Rose Gold"
+      ],
+      "finishes": [
+        "Brushed Metal"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-34-kajal",
+    "slug": "kajal",
+    "name": "Kajal",
+    "brand": "Aura Beauty",
+    "category": "Beauty & Skincare",
+    "subcategory": "Eye Makeup",
+    "price": 249,
+    "compareAtPrice": 325,
+    "discountPercentage": 23,
+    "rating": 4.6,
+    "reviewCount": 3120,
+    "description": "Smudge-proof 24-hour waterproof kohl kajal enriched with chamomile and almond oil for intense carbon-black waterline definition.",
+    "materials": "Chamomile Extract, Almond Oil, Carbon Black",
+    "dimensions": "0.35 g Retractable Pencil",
+    "specifications": {
+      "Wear": "24H Waterproof",
+      "Ophthalmologist Tested": "Yes",
+      "Smudge-Proof": "Yes",
+      "Finish": "Intense Matte"
+    },
+    "image": "/src/assets/images/prod_kajal_liner_1795617100009.jpg",
+    "stock": 75,
+    "popularityScore": 91,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "0.35 g"
+      ],
+      "colors": [
+        "Intense Jet Black"
+      ],
+      "finishes": [
+        "Matte Kohl"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-35-compact-powder",
+    "slug": "compact-powder",
+    "name": "Compact Powder",
+    "brand": "Aura Beauty",
+    "category": "Beauty & Skincare",
+    "subcategory": "Face Makeup",
+    "price": 449,
+    "compareAtPrice": 599,
+    "discountPercentage": 25,
+    "rating": 4.5,
+    "reviewCount": 1050,
+    "description": "Micro-milled oil-control SPF 20 pressed compact powder with built-in mirror and plush puff for seamless shine-free touch-ups.",
+    "materials": "Micro-Milled Mineral Talc-Free Blend, Vitamin E",
+    "dimensions": "9 g Mirror Case",
+    "specifications": {
+      "Sun Protection": "SPF 20",
+      "Coverage": "Buildable Sheer-Medium",
+      "Mirror": "Built-in",
+      "Weight": "9 g"
+    },
+    "image": "/src/assets/images/prod_compact_powder_1795617100010.jpg",
+    "stock": 39,
+    "popularityScore": 84,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "9 g"
+      ],
+      "colors": [
+        "Warm Ivory",
+        "Natural Beige",
+        "Caramel"
+      ],
+      "finishes": [
+        "Silk Matte"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-36-hair-serum",
+    "slug": "hair-serum",
+    "name": "Hair Serum",
+    "brand": "Veda Roots",
+    "category": "Beauty & Skincare",
+    "subcategory": "Hair Care",
+    "price": 399,
+    "compareAtPrice": 549,
+    "discountPercentage": 27,
+    "rating": 4.5,
+    "reviewCount": 1180,
+    "description": "Weightless Moroccan argan & bhringraj frizz-control hair serum offering 230°C heat protection and mirror-smooth shine.",
+    "materials": "Moroccan Argan Oil, Vitamin E, Bhringraj",
+    "dimensions": "100 ml Amber Glass Pump",
+    "specifications": {
+      "Heat Shield": "Up to 230°C",
+      "Hair Type": "Frizzy / Dry",
+      "Silicone Free": "Light Plant Esters",
+      "Volume": "100 ml"
+    },
+    "image": "/src/assets/images/prod_hair_serum_1795617100011.jpg",
+    "stock": 31,
+    "popularityScore": 85,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "100 ml"
+      ],
+      "colors": [
+        "Golden Argan"
+      ],
+      "finishes": [
+        "Lightweight Oil"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-37-face-mask",
+    "slug": "face-mask",
+    "name": "Face Mask",
+    "brand": "Prana Skin",
+    "category": "Beauty & Skincare",
+    "subcategory": "Masks & Exfoliators",
+    "price": 349,
+    "compareAtPrice": 499,
+    "discountPercentage": 30,
+    "rating": 4.4,
+    "reviewCount": 620,
+    "description": "Detoxifying French green kaolin clay & matcha mask that draws out pore congestion while calming redness in 10 minutes.",
+    "materials": "Kaolin Clay, Organic Matcha, Centella",
+    "dimensions": "100 g Glass Jar",
+    "specifications": {
+      "Clay Base": "French Kaolin",
+      "Frequency": "1–2x Weekly",
+      "Cruelty Free": "Yes",
+      "Net Weight": "100 g"
+    },
+    "image": "/src/assets/images/prod_face_mask_1795617100012.jpg",
+    "stock": 28,
+    "popularityScore": 80,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "100 g"
+      ],
+      "colors": [
+        "Matcha Clay"
+      ],
+      "finishes": [
+        "Whipped Clay"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-38-nail-polish-set",
+    "slug": "nail-polish-set",
+    "name": "Nail Polish Set",
+    "brand": "Aura Beauty",
+    "category": "Beauty & Skincare",
+    "subcategory": "Nail Care",
+    "price": 449,
+    "compareAtPrice": 649,
+    "discountPercentage": 31,
+    "rating": 4.6,
+    "reviewCount": 730,
+    "description": "Duo of breathable 10-free high-gloss gel-finish nail enamels in warm terracotta sienna and neutral sand.",
+    "materials": "10-Free Non-Toxic Plant-Resin Formula",
+    "dimensions": "2 × 12 ml Glass Bottles",
+    "specifications": {
+      "Formula": "10-Free Breathable",
+      "Brush": "Wide Fan Brush",
+      "Dry Time": "90 Seconds",
+      "Pack": "Set of 2"
+    },
+    "image": "/src/assets/images/prod_nail_polish_set_1795617100013.jpg",
+    "stock": 46,
+    "popularityScore": 82,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "2 × 12 ml"
+      ],
+      "colors": [
+        "Sienna & Sand"
+      ],
+      "finishes": [
+        "High Gloss"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-39-lip-balm",
+    "slug": "lip-balm",
+    "name": "Lip Balm",
+    "brand": "Prana Skin",
+    "category": "Beauty & Skincare",
+    "subcategory": "Lip Care",
+    "price": 199,
+    "compareAtPrice": 249,
+    "discountPercentage": 20,
+    "rating": 4.6,
+    "reviewCount": 1950,
+    "description": "Nourishing SPF 15 beeswax-free rosehip & shea butter lip salve that repairs dry chapped lips overnight.",
+    "materials": "Organic Shea Butter, Rosehip Oil, Vitamin E",
+    "dimensions": "10 g Pocket Tube",
+    "specifications": {
+      "Sun Care": "SPF 15",
+      "Tint": "Natural Sheer",
+      "Petroleum Free": "Yes",
+      "Weight": "10 g"
+    },
+    "image": "/src/assets/images/prod_lip_balm_1795617100014.jpg",
+    "stock": 84,
+    "popularityScore": 87,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "10 g"
+      ],
+      "colors": [
+        "Rosehip"
+      ],
+      "finishes": [
+        "Satin Balm"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-40-handbag",
+    "slug": "handbag",
+    "name": "Handbag",
+    "brand": "Atelier Hide",
+    "category": "Bags & Accessories",
+    "subcategory": "Handbags & Totes",
+    "price": 3499,
+    "compareAtPrice": 4999,
+    "discountPercentage": 30,
+    "rating": 4.8,
+    "reviewCount": 640,
+    "description": "Structured top-handle trapeze handbag crafted in vegetable-tanned cognac leather with detachable crossbody strap and suede lining.",
+    "materials": "Full-Grain Vegetable-Tanned Leather, Brushed Brass",
+    "dimensions": "29 × 22 × 12 cm",
+    "specifications": {
+      "Material": "Full-Grain Leather",
+      "Strap": "Detachable Crossbody",
+      "Compartments": "3 + Zip Pocket",
+      "Hardware": "Brushed Gold"
+    },
+    "image": "/src/assets/images/prod_leather_handbag_1795617100015.jpg",
+    "stock": 14,
+    "popularityScore": 93,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "Medium Structured"
+      ],
+      "colors": [
+        "Cognac Tan",
+        "Espresso"
+      ],
+      "finishes": [
+        "Smooth Grain"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-41-backpack",
+    "slug": "backpack",
+    "name": "Backpack",
+    "brand": "Nomad Carry",
+    "category": "Bags & Accessories",
+    "subcategory": "Backpacks",
+    "price": 2199,
+    "compareAtPrice": 2999,
+    "discountPercentage": 27,
+    "rating": 4.6,
+    "reviewCount": 1420,
+    "description": "Water-resistant 22L minimalist commuter backpack featuring a suspended 16-inch laptop sleeve and hidden passport pocket.",
+    "materials": "900D Recycled Ballistic Nylon, YKK Zippers",
+    "dimensions": "44 × 30 × 15 cm · 22 Litres",
+    "specifications": {
+      "Capacity": "22 Litres",
+      "Laptop Fit": "Up to 16 inches",
+      "Weatherproof": "DWR Water-Resistant",
+      "Weight": "780 g"
+    },
+    "image": "/src/assets/images/prod_commuter_backpack_1795617100016.jpg",
+    "stock": 26,
+    "popularityScore": 91,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "22L Commuter"
+      ],
+      "colors": [
+        "Charcoal Slate",
+        "Obsidian"
+      ],
+      "finishes": [
+        "Matte Nylon"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-42-wallet",
+    "slug": "wallet",
+    "name": "Wallet",
+    "brand": "Nomad Carry",
+    "category": "Bags & Accessories",
+    "subcategory": "Wallets",
+    "price": 799,
+    "compareAtPrice": 1199,
+    "discountPercentage": 33,
+    "rating": 4.5,
+    "reviewCount": 910,
+    "description": "Ultra-slim RFID-blocking everyday canvas & leather bi-fold cardholder storing up to 8 cards and flat currency notes.",
+    "materials": "RFID Shield Mesh, Split-Grain Leather",
+    "dimensions": "10.5 × 8.2 × 0.9 cm",
+    "specifications": {
+      "RFID Protection": "13.56 MHz Shield",
+      "Card Slots": "8 Slots",
+      "Coin Pocket": "Slim Flat",
+      "Profile": "0.9 cm Ultra-Slim"
+    },
+    "image": "/src/assets/images/prod_minimal_wallet_1795617100017.jpg",
+    "stock": 42,
+    "popularityScore": 84,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Slim Bi-Fold"
+      ],
+      "colors": [
+        "Saddle Tan"
+      ],
+      "finishes": [
+        "Matte"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-43-sunglasses",
+    "slug": "sunglasses",
+    "name": "Sunglasses",
+    "brand": "Krono Optics",
+    "category": "Bags & Accessories",
+    "subcategory": "Eyewear",
+    "price": 1499,
+    "compareAtPrice": 2299,
+    "discountPercentage": 35,
+    "rating": 4.6,
+    "reviewCount": 780,
+    "description": "Hand-polished Italian acetate keyhole sunglasses fitted with UV400 polarized CR-39 green-tinted lenses and 5-barrel hinges.",
+    "materials": "Cellulose Acetate Frame, Polarized UV400 Lens",
+    "dimensions": "49-21-145 mm",
+    "specifications": {
+      "UV Protection": "100% UV400 Polarized",
+      "Frame": "Plant Acetate",
+      "Hinge": "5-Barrel Steel",
+      "Case": "Foldable Hard Case"
+    },
+    "image": "/src/assets/images/prod_sunglasses_1795617100018.jpg",
+    "stock": 33,
+    "popularityScore": 88,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Medium (49 mm)"
+      ],
+      "colors": [
+        "Tortoiseshell",
+        "Classic Black"
+      ],
+      "finishes": [
+        "Polished Acetate"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-44-analog-watch",
+    "slug": "analog-watch",
+    "name": "Analog Watch",
+    "brand": "Krono Studio",
+    "category": "Bags & Accessories",
+    "subcategory": "Watches",
+    "price": 4299,
+    "compareAtPrice": 5999,
+    "discountPercentage": 28,
+    "rating": 4.8,
+    "reviewCount": 560,
+    "description": "39mm brushed 316L stainless steel field watch powered by Japanese Miyota quartz movement with sapphire crystal and 5 ATM water resistance.",
+    "materials": "316L Stainless Steel, Sapphire Glass",
+    "dimensions": "39 mm Case · 20 mm Lug Width",
+    "specifications": {
+      "Movement": "Japanese Quartz",
+      "Crystal": "Anti-Reflective Sapphire",
+      "Water Resistance": "50 Meters (5 ATM)",
+      "Lume": "Super-LumiNova"
+    },
+    "image": "/src/assets/images/prod_analog_watch_1795617100019.jpg",
+    "stock": 15,
+    "popularityScore": 92,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "39 mm"
+      ],
+      "colors": [
+        "Brushed Steel / Black Dial"
+      ],
+      "finishes": [
+        "Satin Steel"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-45-leather-wallet",
+    "slug": "leather-wallet",
+    "name": "Leather Wallet",
+    "brand": "Atelier Hide",
+    "category": "Bags & Accessories",
+    "subcategory": "Wallets",
+    "price": 1299,
+    "compareAtPrice": 1799,
+    "discountPercentage": 28,
+    "rating": 4.7,
+    "reviewCount": 840,
+    "description": "Hand-stitched full-grain saddle leather billfold wallet with twin full-length note dividers and burnished edges.",
+    "materials": "100% Full-Grain Vegetable-Tanned Leather",
+    "dimensions": "11.2 × 9.0 × 1.3 cm",
+    "specifications": {
+      "Leather Grade": "Full-Grain Top Layer",
+      "Stitching": "Waxed Linen Thread",
+      "Slots": "6 Card + 2 Hidden",
+      "Gift Box": "Included"
+    },
+    "image": "/src/assets/images/prod_leather_wallet_1795617100020.jpg",
+    "stock": 25,
+    "popularityScore": 87,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Classic Billfold"
+      ],
+      "colors": [
+        "Cognac Tan",
+        "Chestnut"
+      ],
+      "finishes": [
+        "Hand-Burnished"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-46-travel-backpack",
+    "slug": "travel-backpack",
+    "name": "Travel Backpack",
+    "brand": "Nomad Carry",
+    "category": "Bags & Accessories",
+    "subcategory": "Travel Luggage",
+    "price": 3499,
+    "compareAtPrice": 4999,
+    "discountPercentage": 30,
+    "rating": 4.8,
+    "reviewCount": 710,
+    "description": "35L cabin-approved clamshell carry-on travel pack with luggage pass-through strap, shoe compartment, and padded harness.",
+    "materials": "Waterproof Coated Canvas & Ripstop",
+    "dimensions": "51 × 33 × 20 cm · 35 Litres",
+    "specifications": {
+      "Volume": "35L Cabin Size",
+      "Opening": "180° Clamshell",
+      "Laptop Pocket": "17-inch Padded",
+      "Rain Cover": "Included"
+    },
+    "image": "/src/assets/images/prod_travel_backpack_1795617100021.jpg",
+    "stock": 18,
+    "popularityScore": 90,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "35L Carry-On"
+      ],
+      "colors": [
+        "Charcoal",
+        "Olive"
+      ],
+      "finishes": [
+        "Weatherproof"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-47-hair-claw-clips",
+    "slug": "hair-claw-clips",
+    "name": "Hair Claw Clips",
+    "brand": "Aura Beauty",
+    "category": "Bags & Accessories",
+    "subcategory": "Hair Accessories",
+    "price": 299,
+    "compareAtPrice": 449,
+    "discountPercentage": 33,
+    "rating": 4.6,
+    "reviewCount": 1540,
+    "description": "Pack of 2 large matte neutral cellulose-acetate claw clips with strong rust-free steel springs for thick and fine hair.",
+    "materials": "Matte Soft-Touch Acetate, Alloy Spring",
+    "dimensions": "10.5 cm Length · Pack of 2",
+    "specifications": {
+      "Pack Size": "2 Clips",
+      "Grip": "Non-Slip Rounded Teeth",
+      "Material": "Biodegradable Acetate",
+      "Spring": "High-Tension Steel"
+    },
+    "image": "/src/assets/images/prod_hair_claw_clips_1795617100022.jpg",
+    "stock": 60,
+    "popularityScore": 86,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Large (10.5 cm)"
+      ],
+      "colors": [
+        "Taupe & Cream"
+      ],
+      "finishes": [
+        "Soft Matte"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-48-silver-pendant",
+    "slug": "silver-pendant",
+    "name": "Silver Pendant",
+    "brand": "Sona Atelier",
+    "category": "Bags & Accessories",
+    "subcategory": "Fine Jewelry",
+    "price": 1799,
+    "compareAtPrice": 2499,
+    "discountPercentage": 28,
+    "rating": 4.8,
+    "reviewCount": 495,
+    "description": "925 hallmarked sterling silver minimalist halo ring pendant suspended on an 18-inch rhodium-plated anti-tarnish box chain.",
+    "materials": "925 Sterling Silver, Rhodium Rhodium Finish",
+    "dimensions": "18-inch Chain + 2-inch Extender",
+    "specifications": {
+      "Purity": "925 Hallmarked Silver",
+      "Plating": "Anti-Tarnish Rhodium",
+      "Hypoallergenic": "Nickel-Free",
+      "Clasp": "Lobster Claw"
+    },
+    "image": "/src/assets/images/prod_silver_pendant_1795617100023.jpg",
+    "stock": 21,
+    "popularityScore": 89,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "18-inch Chain"
+      ],
+      "colors": [
+        "Sterling Silver"
+      ],
+      "finishes": [
+        "Mirror Polish"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-49-sports-shoes",
+    "slug": "sports-shoes",
+    "name": "Sports Shoes",
+    "brand": "Veloce Run",
+    "category": "Bags & Accessories",
+    "subcategory": "Footwear",
+    "price": 2499,
+    "compareAtPrice": 3599,
+    "discountPercentage": 31,
+    "rating": 4.6,
+    "reviewCount": 1870,
+    "description": "Engineered-knit high-rebound athletic running shoes with cushioned EVA midsole and multi-surface carbon rubber traction.",
+    "materials": "3D Breathable Knit, Dual-Density EVA",
+    "dimensions": "245 g per shoe (UK 8)",
+    "specifications": {
+      "Drop": "8 mm Heel-to-Toe",
+      "Upper": "Seamless Mesh",
+      "Insole": "Memory Foam",
+      "Outsole": "High-Grip Rubber"
+    },
+    "image": "/src/assets/images/prod_sports_shoes_1795617100024.jpg",
+    "stock": 28,
+    "popularityScore": 93,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10"
+      ],
+      "colors": [
+        "Graphite / White"
+      ],
+      "finishes": [
+        "Knit Mesh"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-50-casual-sneakers",
+    "slug": "casual-sneakers",
+    "name": "Casual Sneakers",
+    "brand": "Veloce Studio",
+    "category": "Bags & Accessories",
+    "subcategory": "Footwear",
+    "price": 2199,
+    "compareAtPrice": 2999,
+    "discountPercentage": 27,
+    "rating": 4.7,
+    "reviewCount": 1590,
+    "description": "Minimalist low-top white court sneakers with stitched natural gum-rubber cupsole and breathable Ortholite comfort footbed.",
+    "materials": "Vegan Microfiber Leather, Gum Rubber",
+    "dimensions": "Unisex UK 5 to UK 10",
+    "specifications": {
+      "Sole": "Stitched Gum Cupsole",
+      "Lining": "Breathable Textile",
+      "Insole": "Removable Cushioned",
+      "Weight": "320 g"
+    },
+    "image": "/src/assets/images/prod_casual_sneakers_1795617100025.jpg",
+    "stock": 34,
+    "popularityScore": 94,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "UK 6",
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10"
+      ],
+      "colors": [
+        "Chalk White / Gum"
+      ],
+      "finishes": [
+        "Smooth Grain"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-51-travel-toiletry-bag",
+    "slug": "travel-toiletry-bag",
+    "name": "Travel Toiletry Bag",
+    "brand": "Nomad Carry",
+    "category": "Bags & Accessories",
+    "subcategory": "Travel Organizers",
+    "price": 699,
+    "compareAtPrice": 999,
+    "discountPercentage": 30,
+    "rating": 4.5,
+    "reviewCount": 580,
+    "description": "Wipe-clean organic heavy canvas dopp kit with waterproof PEVA lining, internal mesh bottle loops, and solid brass zipper.",
+    "materials": "16oz Waxed Cotton Canvas, Waterproof PEVA",
+    "dimensions": "23 × 14 × 10 cm",
+    "specifications": {
+      "Lining": "Spill-Proof PEVA",
+      "Zipper": "Solid Brass YKK",
+      "Interior": "3 Elastic Loops",
+      "Capacity": "3.2 Litres"
+    },
+    "image": "/src/assets/images/prod_toiletry_bag_1795617100026.jpg",
+    "stock": 31,
+    "popularityScore": 81,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "3.2L Pouch"
+      ],
+      "colors": [
+        "Natural Canvas"
+      ],
+      "finishes": [
+        "Water-Repellent"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-52-table-lamp",
+    "slug": "table-lamp",
+    "name": "Table Lamp",
+    "brand": "Atelier Solis",
+    "category": "Home & Kitchen",
+    "subcategory": "Lighting",
+    "price": 2499,
+    "compareAtPrice": 3499,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "reviewCount": 620,
+    "description": "Sculptural Roman travertine base and spun brushed-brass dome table lamp casting a warm 2700K glare-free ambient glow.",
+    "materials": "Honed Roman Travertine, Solid Brass",
+    "dimensions": "240 × 240 × 310 mm",
+    "specifications": {
+      "Bulb Included": "9W Warm LED E27",
+      "Color Temp": "2700K Warm White",
+      "Cord": "1.8 m Braided Linen",
+      "Switch": "Inline Rotary Dimmer"
+    },
+    "image": "/src/assets/images/prod_travertine_lamp_1795613732425.jpg",
+    "stock": 14,
+    "popularityScore": 92,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "Desk / Bedside"
+      ],
+      "colors": [
+        "Roman Travertine / Brass"
+      ],
+      "finishes": [
+        "Brushed Brass"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-53-electric-kettle",
+    "slug": "electric-kettle",
+    "name": "Electric Kettle",
+    "brand": "Prestige",
+    "category": "Home & Kitchen",
+    "subcategory": "Kitchen Appliances",
+    "price": 1299,
+    "compareAtPrice": 1795,
+    "discountPercentage": 28,
+    "rating": 4.6,
+    "reviewCount": 3140,
+    "description": "1.5L 1500W precision stainless steel electric kettle with temperature display base, gooseneck pour spout, and auto boil-dry shutoff.",
+    "materials": "304 Food-Grade Stainless Steel",
+    "dimensions": "1.5 Litres · 1500W",
+    "specifications": {
+      "Power": "1500 Watts",
+      "Capacity": "1.5 Litres",
+      "Base": "360° Cordless Swivel",
+      "Safety": "Auto Cut-Off"
+    },
+    "image": "/src/assets/images/prod_electric_kettle_1795614688253.jpg",
+    "stock": 35,
+    "popularityScore": 91,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "1.5 L"
+      ],
+      "colors": [
+        "Brushed Steel"
+      ],
+      "finishes": [
+        "Satin Steel"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-54-coffee-maker",
+    "slug": "coffee-maker",
+    "name": "Coffee Maker",
+    "brand": "Mashiko Craft",
+    "category": "Home & Kitchen",
+    "subcategory": "Coffee & Tea",
+    "price": 1699,
+    "compareAtPrice": 2299,
+    "discountPercentage": 26,
+    "rating": 4.7,
+    "reviewCount": 780,
+    "description": "Hand-thrown matte stoneware pour-over coffee maker & thermal server carafe engineered for clean, aromatic slow extraction.",
+    "materials": "Reduction-Fired Black Stoneware",
+    "dimensions": "600 ml Carafe + Dripper",
+    "specifications": {
+      "Capacity": "600 ml (4 Cups)",
+      "Filter Type": "Standard V02 Paper",
+      "Thermal Retention": "High-Density Clay",
+      "Dishwasher Safe": "Yes"
+    },
+    "image": "/src/assets/images/prod_ceramic_pourover_1795613733948.jpg",
+    "stock": 20,
+    "popularityScore": 89,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "600 ml",
+        "900 ml"
+      ],
+      "colors": [
+        "Charcoal Clay"
+      ],
+      "finishes": [
+        "Mineral Glaze"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-55-nonstick-cookware-set",
+    "slug": "non-stick-cookware-set",
+    "name": "Non-stick Cookware Set",
+    "brand": "Kuro Kitchen",
+    "category": "Home & Kitchen",
+    "subcategory": "Cookware",
+    "price": 2799,
+    "compareAtPrice": 3999,
+    "discountPercentage": 30,
+    "rating": 4.6,
+    "reviewCount": 1410,
+    "description": "3-piece PFOA-free 5-layer granite non-stick induction cookware set including fry pan, deep kadhai with tempered glass lid, and flat tawa.",
+    "materials": "Forged Virgin Aluminum, Tempered Glass",
+    "dimensions": "24 cm Pan · 24 cm Kadhai · 28 cm Tawa",
+    "specifications": {
+      "Coating": "5-Layer PFOA-Free Granite",
+      "Compatibility": "Gas & Induction",
+      "Handles": "Stay-Cool Riveted",
+      "Pieces": "3 + Glass Lid"
+    },
+    "image": "/src/assets/images/prod_cookware_set_1795617100027.jpg",
+    "stock": 18,
+    "popularityScore": 92,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "3-Piece Set"
+      ],
+      "colors": [
+        "Charcoal Granite"
+      ],
+      "finishes": [
+        "Matte Non-Stick"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-56-storage-containers",
+    "slug": "storage-containers",
+    "name": "Storage Containers",
+    "brand": "Kuro Kitchen",
+    "category": "Home & Kitchen",
+    "subcategory": "Kitchen Storage",
+    "price": 1199,
+    "compareAtPrice": 1699,
+    "discountPercentage": 29,
+    "rating": 4.7,
+    "reviewCount": 890,
+    "description": "Set of 4 thermal-shock borosilicate glass meal-prep containers topped with airtight bamboo & silicone-sealed lids.",
+    "materials": "Borosilicate Glass, Natural Bamboo",
+    "dimensions": "400 ml, 640 ml, 1040 ml, 1520 ml",
+    "specifications": {
+      "Oven Safe": "Up to 400°C (No Lid)",
+      "Microwave Safe": "Yes",
+      "Leakproof": "Silicone Gasket",
+      "Set": "4 Containers"
+    },
+    "image": "/src/assets/images/prod_storage_containers_1795617100028.jpg",
+    "stock": 32,
+    "popularityScore": 87,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Set of 4"
+      ],
+      "colors": [
+        "Clear / Natural Bamboo"
+      ],
+      "finishes": [
+        "Airtight"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-57-water-purifier-bottle",
+    "slug": "water-purifier-bottle",
+    "name": "Water Purifier Bottle",
+    "brand": "PureFlow",
+    "category": "Home & Kitchen",
+    "subcategory": "Hydration & Filtration",
+    "price": 1499,
+    "compareAtPrice": 1999,
+    "discountPercentage": 25,
+    "rating": 4.5,
+    "reviewCount": 520,
+    "description": "750ml stainless steel bottle with integrated replaceable activated-carbon & hollow-fiber filter removing 99.9% bacteria and chlorine.",
+    "materials": "18/8 Stainless Steel, Activated Carbon Filter",
+    "dimensions": "750 ml · Filter Life 1,000 Litres",
+    "specifications": {
+      "Filtration": "0.1 Micron Hollow Fiber",
+      "Filter Capacity": "1,000 Litres",
+      "BPA Free": "100%",
+      "Weight": "310 g"
+    },
+    "image": "/src/assets/images/prod_water_purifier_bottle_1795617100029.jpg",
+    "stock": 24,
+    "popularityScore": 83,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "750 ml"
+      ],
+      "colors": [
+        "Brushed Steel"
+      ],
+      "finishes": [
+        "Integrated Filter"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-58-bedsheet-set",
+    "slug": "bedsheet-set",
+    "name": "Bedsheet Set",
+    "brand": "Nook & Nest",
+    "category": "Home & Kitchen",
+    "subcategory": "Bedding",
+    "price": 1899,
+    "compareAtPrice": 2699,
+    "discountPercentage": 30,
+    "rating": 4.7,
+    "reviewCount": 1240,
+    "description": "400 thread-count 100% organic long-staple cotton percale king bedsheet with 2 envelope-closure pillowcases in crisp ivory.",
+    "materials": "100% Organic Cotton Percale (400 TC)",
+    "dimensions": "King 274 × 274 cm + 2 Pillow Covers",
+    "specifications": {
+      "Thread Count": "400 TC Percale",
+      "Size": "King Double",
+      "Pillow Covers": "2 Included",
+      "Finish": "Breathable Matte"
+    },
+    "image": "/src/assets/images/prod_bedsheet_set_1795617100030.jpg",
+    "stock": 27,
+    "popularityScore": 90,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Queen",
+        "King"
+      ],
+      "colors": [
+        "Ivory Cream",
+        "Warm Oat"
+      ],
+      "finishes": [
+        "Percale Weave"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-59-decorative-mirror",
+    "slug": "decorative-mirror",
+    "name": "Decorative Mirror",
+    "brand": "Nook & Nest",
+    "category": "Home & Kitchen",
+    "subcategory": "Home Decor",
+    "price": 3299,
+    "compareAtPrice": 4499,
+    "discountPercentage": 27,
+    "rating": 4.8,
+    "reviewCount": 430,
+    "description": "Full-length arched brushed-brass aluminum framed mirror with shatter-resistant 5mm silvered HD glass for wall-mount or floor lean.",
+    "materials": "5mm HD Silver Glass, Anodized Brass Frame",
+    "dimensions": "160 × 55 cm",
+    "specifications": {
+      "Glass": "5mm Copper-Free HD",
+      "Mounting": "Wall Hang or Lean",
+      "Frame": "Brushed Brass Aluminum",
+      "Backing": "Shatter-Safe Film"
+    },
+    "image": "/src/assets/images/prod_decorative_mirror_1795617100031.jpg",
+    "stock": 9,
+    "popularityScore": 88,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "160 × 55 cm"
+      ],
+      "colors": [
+        "Brushed Brass"
+      ],
+      "finishes": [
+        "Arched Edge"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-60-wall-art",
+    "slug": "wall-art",
+    "name": "Wall Art",
+    "brand": "Nook & Nest",
+    "category": "Home & Kitchen",
+    "subcategory": "Home Decor",
+    "price": 1399,
+    "compareAtPrice": 1999,
+    "discountPercentage": 30,
+    "rating": 4.6,
+    "reviewCount": 360,
+    "description": "Museum-grade archival giclée minimalist terracotta geometric art print framed in solid natural oak with anti-glare acrylic.",
+    "materials": "300gsm Cotton Rag Print, Solid Oak Frame",
+    "dimensions": "45 × 60 cm (A2 Framed)",
+    "specifications": {
+      "Paper": "300gsm Archival Matte",
+      "Frame": "Solid White Oak",
+      "Glazing": "UV-Filter Acrylic",
+      "Ready to Hang": "Sawtooth Included"
+    },
+    "image": "/src/assets/images/prod_wall_art_1795617100032.jpg",
+    "stock": 22,
+    "popularityScore": 82,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "45 × 60 cm"
+      ],
+      "colors": [
+        "Natural Oak Frame"
+      ],
+      "finishes": [
+        "Matte Giclée"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-61-led-night-lamp",
+    "slug": "led-night-lamp",
+    "name": "LED Night Lamp",
+    "brand": "Atelier Solis",
+    "category": "Home & Kitchen",
+    "subcategory": "Lighting",
+    "price": 899,
+    "compareAtPrice": 1299,
+    "discountPercentage": 31,
+    "rating": 4.7,
+    "reviewCount": 940,
+    "description": "Rechargeable frosted opal glass moon-orb bedside night lamp on solid beechwood base with 3-stage touch dimming.",
+    "materials": "Frosted Opal Glass, Beechwood Base",
+    "dimensions": "150 mm Diameter",
+    "specifications": {
+      "Control": "3-Level Touch Dimmer",
+      "Battery": "1200 mAh USB-C",
+      "Runtime": "Up to 24 Hours",
+      "Tone": "2400K Amber Warm"
+    },
+    "image": "/src/assets/images/prod_led_night_lamp_1795617100033.jpg",
+    "stock": 0,
+    "popularityScore": 85,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "15 cm Orb"
+      ],
+      "colors": [
+        "Warm Opal"
+      ],
+      "finishes": [
+        "Frosted Glass"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-62-notebook-set",
+    "slug": "notebook-set",
+    "name": "Notebook Set",
+    "brand": "Atelier Paper",
+    "category": "Stationery & Lifestyle",
+    "subcategory": "Notebooks & Paper",
+    "price": 499,
+    "compareAtPrice": 699,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "reviewCount": 890,
+    "description": "Set of 2 woven linen-bound A5 notebooks featuring 120gsm fountain-pen friendly ivory paper, flat-lay spine, and ribbon bookmarks.",
+    "materials": "120gsm Acid-Free Ivory Paper, Woven Linen",
+    "dimensions": "A5 (14.8 × 21 cm) · 192 Pages Each",
+    "specifications": {
+      "Paper Weight": "120 GSM",
+      "Ruling": "1 Dotted + 1 Ruled",
+      "Binding": "Lay-Flat Thread Sewn",
+      "Pack": "Set of 2"
+    },
+    "image": "/src/assets/images/prod_notebook_set_1795617100034.jpg",
+    "stock": 45,
+    "popularityScore": 90,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "A5 Duo Pack"
+      ],
+      "colors": [
+        "Sand & Olive"
+      ],
+      "finishes": [
+        "Hardcover Linen"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-63-desk-organizer",
+    "slug": "desk-organizer",
+    "name": "Desk Organizer",
+    "brand": "FormWork",
+    "category": "Stationery & Lifestyle",
+    "subcategory": "Desk Organization",
+    "price": 999,
+    "compareAtPrice": 1499,
+    "discountPercentage": 33,
+    "rating": 4.7,
+    "reviewCount": 510,
+    "description": "CNC-milled solid American walnut desktop caddy organizing books, pens, glasses, and daily carry items with cork base protection.",
+    "materials": "Solid American Walnut, Natural Cork",
+    "dimensions": "24 × 15 × 11 cm",
+    "specifications": {
+      "Material": "Solid Walnut Timber",
+      "Slots": "5 Compartments",
+      "Underside": "Anti-Scratch Cork",
+      "Finish": "Hand-Rubbed Oil"
+    },
+    "image": "/src/assets/images/prod_desk_organizer_1795617100035.jpg",
+    "stock": 23,
+    "popularityScore": 86,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "Standard"
+      ],
+      "colors": [
+        "Natural Walnut"
+      ],
+      "finishes": [
+        "Matte Oil"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-64-yoga-mat",
+    "slug": "yoga-mat",
+    "name": "Yoga Mat",
+    "brand": "Kore Fit",
+    "category": "Stationery & Lifestyle",
+    "subcategory": "Fitness & Wellness",
+    "price": 899,
+    "compareAtPrice": 1299,
+    "discountPercentage": 31,
+    "rating": 4.6,
+    "reviewCount": 1620,
+    "description": "6mm eco-certified closed-cell TPE non-slip yoga and pilates mat with dual-textured traction and woven carry strap.",
+    "materials": "Recyclable Closed-Cell TPE Foam",
+    "dimensions": "183 × 61 × 0.6 cm",
+    "specifications": {
+      "Thickness": "6 mm Cushion",
+      "Surface": "Anti-Skid Dual Texture",
+      "Eco-Friendly": "PVC & Latex Free",
+      "Strap": "Included"
+    },
+    "image": "/src/assets/images/prod_yoga_mat_1795617100036.jpg",
+    "stock": 34,
+    "popularityScore": 89,
+    "featured": false,
+    "variants": {
+      "sizes": [
+        "6 mm (183 × 61 cm)"
+      ],
+      "colors": [
+        "Slate Grey"
+      ],
+      "finishes": [
+        "Textured Grip"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "sc-65-reusable-water-bottle",
+    "slug": "reusable-water-bottle",
+    "name": "Reusable Water Bottle",
+    "brand": "Kore Fit",
+    "category": "Stationery & Lifestyle",
+    "subcategory": "Hydration & Everyday",
+    "price": 649,
+    "compareAtPrice": 899,
+    "discountPercentage": 28,
+    "rating": 4.7,
+    "reviewCount": 1940,
+    "description": "Double-wall vacuum-insulated 1-litre 18/8 stainless steel flask maintaining ice-cold water for 24 hours with zero condensation.",
+    "materials": "18/8 Food-Grade Stainless Steel, BPA-Free Cap",
+    "dimensions": "1000 ml · Wide Mouth",
+    "specifications": {
+      "Capacity": "1000 ml (1 Litre)",
+      "Insulation": "24h Cold / 12h Hot",
+      "Exterior": "Sweat-Free Finish",
+      "Leakproof": "Silicone O-Ring"
+    },
+    "image": "/src/assets/images/prod_reusable_bottle_1795617100037.jpg",
+    "stock": 51,
+    "popularityScore": 91,
+    "featured": true,
+    "variants": {
+      "sizes": [
+        "750 ml",
+        "1000 ml"
+      ],
+      "colors": [
+        "Brushed Steel"
+      ],
+      "finishes": [
+        "Vacuum Insulated"
+      ]
+    },
+    "isAvailable": true,
+    "updatedAt": "2026-11-25T06:00:00.000Z"
+  }
+]

@@ -1,0 +1,91 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --aura-bg: #FAF9F6;
+  --aura-surface: #FFFFFF;
+  --aura-surface-muted: #F2EFEA;
+  --aura-text: #171614;
+  --aura-text-muted: #66635D;
+  --aura-border: rgba(23, 22, 20, 0.09);
+  --aura-accent: #9A5B25;
+  --aura-accent-hover: #7D481B;
+  --aura-accent-contrast: #FFFFFF;
+}
+
+.dark {
+  --aura-bg: #0E0E10;
+  --aura-surface: #17171A;
+  --aura-surface-muted: #212126;
+  --aura-text: #F4F2ED;
+  --aura-text-muted: #A19D95;
+  --aura-border: rgba(255, 255, 255, 0.1);
+  --aura-accent: #D4A373;
+  --aura-accent-hover: #E2B98F;
+  --aura-accent-contrast: #121214;
+}
+
+[data-accent="sage"] {
+  --aura-accent: #3A6B56;
+  --aura-accent-hover: #2C5443;
+}
+.dark[data-accent="sage"] {
+  --aura-accent: #6EB597;
+  --aura-accent-hover: #87C9AD;
+}
+
+[data-accent="slate"] {
+  --aura-accent: #2D4A6E;
+  --aura-accent-hover: #223854;
+}
+.dark[data-accent="slate"] {
+  --aura-accent: #7BA4D9;
+  --aura-accent-hover: #96B9E6;
+}
+
+[data-accent="obsidian"] {
+  --aura-accent: #18181B;
+  --aura-accent-hover: #27272A;
+}
+.dark[data-accent="obsidian"] {
+  --aura-accent: #F4F2ED;
+  --aura-accent-hover: #E2DFD7;
+}
+
+.high-contrast {
+  --aura-border: rgba(23, 22, 20, 0.32);
+}
+.dark.high-contrast {
+  --aura-border: rgba(255, 255, 255, 0.35);
+}
+
+@layer base {
+  html {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--aura-bg);
+    color: var(--aura-text);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .font-display {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+
+  .font-mono-tabular {
+    font-family: 'JetBrains Mono', ui-monospace, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
